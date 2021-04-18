@@ -1,0 +1,15 @@
+# Font style metadata
+name = "mine"
+
+# Optional Google font URL
+google_fonts = "family=Average&family=Roboto+Mono&family=Asap"
+
+# Font families
+heading_font = "Asap"
+body_font = "Average"
+nav_font = "Asap"
+mono_font = "Roboto Mono"
+
+# Font size
+font_size = "20"
+font_size_small = "16"
