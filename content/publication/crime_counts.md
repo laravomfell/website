@@ -17,7 +17,7 @@ authors = ["Lara Vomfell", "Wolfgang Karl Härdle", "Stefan Lessmann"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In Decision Support Systems, Volume 113, 73--85"
+publication = "Decision Support Systems, Volume 113, 73--85"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -52,7 +52,7 @@ tags = []
 
 
 # Links (optional).
-url_pdf = "docs/improving-crime-count.pdf"
+url_pdf = "uploads/improving-crime-count.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

@@ -71,4 +71,8 @@ email: ""
 highlight_name: false
 ---
 
-I am a Data Scientist in the Behavioural Science Team at Lloyds Banking Group where I use transaction data to help solve challenging problems within the Bank. Before that I obtained a PhD from Warwick Business School and the Statistics Department at the University of Warwick. My academic research is inspired by problems at the intersection of the statistical and social sciences. In particular, I worked on modeling bias in police officer decision-making, the link between crime reporting and crime visibility, and robust inference. 
+I am a Data Scientist in the Behavioural Science Team at Lloyds Banking Group where I use transactional data to help solve challenging problems. 
+
+Before that I obtained a PhD from Warwick Business School and the Department of Statistics at the University of Warwick. My academic research is inspired by problems at the intersection of the statistical and social sciences. In particular, I worked on modeling bias in police officer decision-making, the link between crime reporting and crime visibility, and robust inference. 
+
+On this website you can find links to all my papers and code. Please get in touch if you cannot access something or find a mistake in my code.

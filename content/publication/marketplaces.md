@@ -17,7 +17,7 @@ authors = ["Florian Stahl", "Fabian Schomm", "Lara Vomfell", "Gottfried Vossen"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "In Working Papers, ERCIS - European Research Center for Information Systems, No. 24"
+publication = "Working Papers, ERCIS - European Research Center for Information Systems, No. 24"
 publication_short = ""
 
 # Abstract and optional shortened version.

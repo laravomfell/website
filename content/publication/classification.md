@@ -17,7 +17,7 @@ authors = ["Florian Stahl", "Fabian Schomm", "Gottfried Vossen", "Lara Vomfell"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In Vietnam Journal of Computer Science, Volume 3, Issue 3, 137–143"
+publication = "Vietnam Journal of Computer Science, Volume 3, Issue 3, 137–143"
 publication_short = ""
 
 # Abstract and optional shortened version.
