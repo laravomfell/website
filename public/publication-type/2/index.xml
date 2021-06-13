@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Lara Vomfell</title>
+    <link>https://laravomfell.github.io/publication-type/2/</link>
+      <atom:link href="https://laravomfell.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://laravomfell.github.io/media/icon_hu28a7bc66d17ea2bbff66edf5fa1b6cbe_10256_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>https://laravomfell.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Officer bias, over-patrolling and ethnic disparities in stop and search</title>
+      <link>https://laravomfell.github.io/publication/ethnic_bias/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://laravomfell.github.io/publication/ethnic_bias/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving crime count forecasts using Twitter and taxi data</title>
+      <link>https://laravomfell.github.io/publication/crime_counts/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0100</pubDate>
+      <guid>https://laravomfell.github.io/publication/crime_counts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A classification framework for data marketplaces</title>
+      <link>https://laravomfell.github.io/publication/classification/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0100</pubDate>
+      <guid>https://laravomfell.github.io/publication/classification/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
